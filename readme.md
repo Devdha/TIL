@@ -4,10 +4,12 @@
 
 매일매일 얻는 새로운 지식을 정리하는 레포입니다. 😀
 
-### Categorues
+### Categories
 
 * [Algorithm](#Algorithm)
 * [OS](#OS)
+  
+---
 
 ### Algorithm
 
@@ -15,4 +17,4 @@
 
 ### OS
 
-[Memory Address binding](os/memory-address-binding.md)
+- [Memory Address binding](os/memory-address-binding.md)
