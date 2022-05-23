@@ -7,7 +7,7 @@
 ### Categories
 
 * [Algorithm](#Algorithm)
-* [C++](#C++)
+* [CPP](#CPP)
 * [OS](#OS)
   
 ---
@@ -16,7 +16,7 @@
 
 - [How to determine if a point is in 2D triangle?](algorithm/how-to-determine-if-a-point-is-in-2d-triangle.md)
 
-### C++
+### CPP
 
 - [Inheritance access mode](c++/inheritance-access-mode.md)
 
