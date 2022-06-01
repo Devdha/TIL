@@ -18,7 +18,8 @@
 
 ### CPP
 
-- [Inheritance access mode](c++/inheritance-access-mode.md)
+- [Inheritance access mode](cpp/inheritance-access-mode.md)
+- [Virtual function](cpp/virtual-function.md)
 
 ### OS
 
